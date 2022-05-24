@@ -1,1 +1,1 @@
-My own  readme for  the git
+My own  readme
